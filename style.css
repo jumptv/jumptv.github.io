@@ -7,7 +7,7 @@ a,a:active,a:hover,a:link,a:visited{outline:0;text-decoration:none;color:#5c5c5c
 .channel-list-container{padding-bottom:35px}
 .channel-group-toggle,.channel-group-toggle:link,.channel-group-toggle:visited{text-align:right;background:#473D85;color:#fff;font-weight:700;margin-bottom:1px;border-bottom-left-radius:13px 13px}
 .channel-list-item:hover,.window-bar{color:#fafafa}
-.vt_number{background:url(https://i.imgur.com/tVDhhfB.jpg) -2px -3px no-repeat #473D85;display:block;float:left;height:25px;margin:-3px -1px;width:25px}
+.vt_number{background:url(img/button.jpg) -2px -3px no-repeat #473D85;display:block;float:left;height:25px;margin:-3px -1px;width:25px}
 .channel-list-item{background:#787878;border-bottom:1px solid #d8d8d8}.channel-list-item:last-child{border-bottom:none}
 .channel-listing-icon{display:block;margin-right:10px;height:40px;width:40px}
 .channel-name{display:block;overflow:hidden;font-size:.9em;margin-top:10px;text-align:left;width:calc(100% - 50px)}
